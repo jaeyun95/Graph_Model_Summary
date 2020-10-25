@@ -11,6 +11,7 @@
 |Watch Your Step: Learning Node Embeddings via Graph Attention|[paper](https://arxiv.org/pdf/1710.09599.pdf)|[code(python)](https://github.com/benedekrozemberczki/AttentionWalk)|
 |node2vec: Scalable Feature Learning for Networks|[paper](https://cs.stanford.edu/people/jure/pubs/node2vec-kdd16.pdf)|[code(python)](https://github.com/aditya-grover/node2vec)|
 |Deep Graph Infomax|[paper](https://arxiv.org/pdf/1809.10341.pdf)|[code(python)](https://github.com/PetarV-/DGI)|
+|graph2vec: Learning Distributed Representations of Graphs|[paper](https://arxiv.org/pdf/1707.05005.pdf)|[code(python)](https://github.com/jaeyun95/graph2vec)|
 
 ---   
 ## graph neural network
