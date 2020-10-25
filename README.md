@@ -1,6 +1,6 @@
 ## Pretrained model summary   
-* [pure graph embedding](#pure-graph-embedding)   
-* [graph neural network](#graph-neural-network)   
+* ### [pure graph embedding](#pure-graph-embedding)   
+* ### [graph neural network](#graph-neural-network)   
 
 ---   
 ## pure graph embedding   
