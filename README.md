@@ -20,3 +20,6 @@
 |**title**|**paper link**|**code link**|
 |---|:---:|:---:|
 |Diffusion-Convolutional Neural Networks|[[paper]](https://arxiv.org/pdf/1511.02136.pdf)|[[code(theano)]](https://github.com/jcatw/dcnn)|
+|Learning Convolutional Neural Networks for Graphs|[[paper]](http://proceedings.mlr.press/v48/niepert16.pdf)|[[code(keras)]](https://github.com/tvayer/PSCN)|
+|Geometric Deep Learning: Going beyond Euclidean data|[[paper]](https://ieeexplore.ieee.org/abstract/document/7974879)|[code]|
+|Deriving Neural Architectures from Sequence and Graph Kernels|[[paper]](https://arxiv.org/pdf/1705.09037.pdf)|[[code(tensorflow)]](https://github.com/taolei87/icml17_knn)|
