@@ -14,6 +14,10 @@
 |graph2vec: Learning Distributed Representations of Graphs|[[paper]](https://arxiv.org/pdf/1707.05005.pdf)|[[code(python)]](https://github.com/jaeyun95/graph2vec)|
 |struc2vec: Learning Node Representations from Structural Identity|[[paper]](https://arxiv.org/pdf/1704.03165.pdf)|[[code(python)]](https://github.com/snap-stanford/graphwave)|
 |Learning Structural Node Embeddings via Diffusion Wavelets|[[paper]](https://cs.stanford.edu/people/jure/pubs/graphwave-kdd18.pdf)|[[code(python)]](https://github.com/snap-stanford/graphwave)|
+|Label Informed Attributed Network Embedding|[[paper]](https://dl.acm.org/doi/pdf/10.1145/3018661.3018667)|[[code(matlab)]](https://github.com/xhuang31/LANE)|
+|Accelerated Attributed Network Embedding|[[paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611974973.71)|[[code(matlab)]](https://github.com/xhuang31/AANE_MATLAB)[[code(python)]](https://github.com/xhuang31/AANE_Python)|
+|Deep Gaussian Embedding of Graphs: Unsupervised Inductive Learning via Ranking|[[paper]](https://arxiv.org/pdf/1707.03815.pdf)|[[code(python)]](https://github.com/abojchevski/graph2gauss)|
+|Network Representation Learning with Rich Text Information|[[paper]](https://www.ijcai.org/Proceedings/15/Papers/299.pdf)|[[code(matlab)]](https://github.com/albertyang33/TADW)|
 
 ---   
 ## graph neural network
