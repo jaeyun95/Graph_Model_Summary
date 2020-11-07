@@ -28,3 +28,4 @@
 |Geometric Deep Learning: Going beyond Euclidean data|[[paper]](https://ieeexplore.ieee.org/abstract/document/7974879)|[code]|
 |Deriving Neural Architectures from Sequence and Graph Kernels|[[paper]](https://arxiv.org/pdf/1705.09037.pdf)|[[code(tensorflow)]](https://github.com/taolei87/icml17_knn)|
 |Semi-Supervised Classification with Graph Convolutional Networks|[[paper]](https://arxiv.org/pdf/1609.02907.pdf)|[[code(pytorch)]](https://github.com/tkipf/pygcn)[[code(tensorflow)]](https://github.com/tkipf/gcn)|
+|Neural Message Passing for Quantum Chemistry|[[paper]](https://arxiv.org/pdf/1704.01212.pdf)|[[code(pytorch)]](https://github.com/priba/nmp_qc)|
