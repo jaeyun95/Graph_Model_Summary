@@ -27,3 +27,4 @@
 |Learning Convolutional Neural Networks for Graphs|[[paper]](http://proceedings.mlr.press/v48/niepert16.pdf)|[[code(keras)]](https://github.com/tvayer/PSCN)|
 |Geometric Deep Learning: Going beyond Euclidean data|[[paper]](https://ieeexplore.ieee.org/abstract/document/7974879)|[code]|
 |Deriving Neural Architectures from Sequence and Graph Kernels|[[paper]](https://arxiv.org/pdf/1705.09037.pdf)|[[code(tensorflow)]](https://github.com/taolei87/icml17_knn)|
+|Semi-Supervised Classification with Graph Convolutional Networks|[[paper]](https://arxiv.org/pdf/1609.02907.pdf)|[[code(pytorch)]](https://github.com/tkipf/pygcn)[[code(tensorflow)]](https://github.com/tkipf/gcn)|
