@@ -1,7 +1,7 @@
 ## Pretrained model summary   
 * ### [pure graph embedding](#pure-graph-embedding)   
 * ### [graph neural network](#graph-neural-network)   
-
+* ### [graph pretrained model](#graph-pretrained-model)
 ---   
 ## pure graph embedding   
 |**title**|**paper link**|**code link**|
@@ -29,3 +29,9 @@
 |Deriving Neural Architectures from Sequence and Graph Kernels|[[paper]](https://arxiv.org/pdf/1705.09037.pdf)|[[code(tensorflow)]](https://github.com/taolei87/icml17_knn)|
 |Semi-Supervised Classification with Graph Convolutional Networks|[[paper]](https://arxiv.org/pdf/1609.02907.pdf)|[[code(pytorch)]](https://github.com/tkipf/pygcn)[[code(tensorflow)]](https://github.com/tkipf/gcn)|
 |Neural Message Passing for Quantum Chemistry|[[paper]](https://arxiv.org/pdf/1704.01212.pdf)|[[code(pytorch)]](https://github.com/priba/nmp_qc)|
+
+___
+## graph pretrained model   
+|**title**|**paper link**|**code link**|
+|---|:---:|:---:|
+|Graph-Bert: Only Attention is Needed for Learning Graph Representations|[[paper]](https://arxiv.org/pdf/2001.05140.pdf)|[[code(pytorch)]](https://github.com/jwzhanggy/Graph-Bert)|
