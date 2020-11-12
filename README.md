@@ -18,6 +18,7 @@
 |Accelerated Attributed Network Embedding|[[paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611974973.71)|[[code(matlab)]](https://github.com/xhuang31/AANE_MATLAB)[[code(python)]](https://github.com/xhuang31/AANE_Python)|
 |Deep Gaussian Embedding of Graphs: Unsupervised Inductive Learning via Ranking|[[paper]](https://arxiv.org/pdf/1707.03815.pdf)|[[code(python)]](https://github.com/abojchevski/graph2gauss)|
 |Network Representation Learning with Rich Text Information|[[paper]](https://www.ijcai.org/Proceedings/15/Papers/299.pdf)|[[code(matlab)]](https://github.com/albertyang33/TADW)|
+|Structural Deep Network Embedding|[[paper]](https://www.kdd.org/kdd2016/papers/files/rfp0191-wangAemb.pdf)|[[code(python)]](https://github.com/suanrong/SDNE)|
 
 ---   
 ## graph neural network
