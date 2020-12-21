@@ -31,6 +31,8 @@
 |Semi-Supervised Classification with Graph Convolutional Networks|[[paper]](https://arxiv.org/pdf/1609.02907.pdf)|[[code(pytorch)]](https://github.com/tkipf/pygcn)[[code(tensorflow)]](https://github.com/tkipf/gcn)|
 |Neural Message Passing for Quantum Chemistry|[[paper]](https://arxiv.org/pdf/1704.01212.pdf)|[[code(pytorch)]](https://github.com/priba/nmp_qc)|
 |GRAPH ATTENTION NETWORKS|[[paper]](https://arxiv.org/pdf/1710.10903.pdf)|[[code(tensorflow)]](https://github.com/PetarV-/GAT)|
+|Stochastic Training of Graph Convolutional Networks with Variance Reduction|[[paper]](http://proceedings.mlr.press/v80/chen18p/chen18p.pdf)|[[code(tensorflow)]](https://github.com/thu-ml/stochastic_gcn)|
+
 
 
 ___
