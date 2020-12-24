@@ -34,7 +34,7 @@
 |Stochastic Training of Graph Convolutional Networks with Variance Reduction|[[paper]](http://proceedings.mlr.press/v80/chen18p/chen18p.pdf)|[[code(tensorflow)]](https://github.com/thu-ml/stochastic_gcn)|
 |Link Prediction Based on Graph Neural Networks|[[paper]](https://proceedings.neurips.cc/paper/2018/file/53f0d7c537d99b3824f0f99d62ea2428-Paper.pdf)|[[code(pytorch)]](https://github.com/muhanzhang/SEAL)|
 |HOW POWERFUL ARE GRAPH NEURAL NETWORKS?|[[paper]](https://arxiv.org/pdf/1810.00826.pdf)|[[code(pytorch)]](https://github.com/weihua916/powerful-gnns)|
-
+|Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning|[[paper]](https://arxiv.org/pdf/1801.07606.pdf)|[[code(tensorflow)]](https://github.com/YuCheng12345/gcn_Co-Training_Self-Training)|
 
 ___
 ## graph pretrained model   
