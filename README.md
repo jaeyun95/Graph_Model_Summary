@@ -37,6 +37,8 @@
 |Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning|[[paper]](https://arxiv.org/pdf/1801.07606.pdf)|[[code(tensorflow)]](https://github.com/YuCheng12345/gcn_Co-Training_Self-Training)|
 |Supervised Community Detection with Line Graph Neural Networks|[[paper]](https://openreview.net/pdf?id=H1g0Z3A9Fm)|[[code(pytorch)]](https://github.com/afansi/multiscalegnn)|
 |SPARC: Self-Paced Network Representation for Few-Shot Rare Category Characterization|[[paper]](https://dl.acm.org/doi/pdf/10.1145/3219819.3219968)|[[code]](https://sites.google.com/view/dawei-zhou/publications)|
+|An End-to-End Deep Learning Architecture for Graph Classification|[[paper]](https://muhanzhang.github.io/papers/AAAI_2018_DGCNN.pdf)|[[code(pytorch)]](https://github.com/muhanzhang/pytorch_DGCNN)|
+
 ___
 ## graph pretrained model   
 |**title**|**paper link**|**code link**|
