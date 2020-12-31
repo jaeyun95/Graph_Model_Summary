@@ -40,6 +40,7 @@
 |An End-to-End Deep Learning Architecture for Graph Classification|[[paper]](https://muhanzhang.github.io/papers/AAAI_2018_DGCNN.pdf)|[[code(pytorch)]](https://github.com/muhanzhang/pytorch_DGCNN)|
 |Neural Message Passing for Quantum Chemistr|[[paper]](https://arxiv.org/pdf/1704.01212.pdf)|[[code(pytorch)]](https://github.com/priba/nmp_qc)|
 |Capsule Graph Neural Network|[[paper]](https://openreview.net/pdf?id=Byl8BnRcYm)|[[code(tensorflow)]](https://github.com/XinyiZ001/CapsGNN)|
+|FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling|[[paper]](https://arxiv.org/pdf/1801.10247.pdf)|[[code(tensorflow)]](https://github.com/matenure/FastGCN)|
 
 ___
 ## graph pretrained model   
