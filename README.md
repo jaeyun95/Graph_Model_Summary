@@ -49,3 +49,4 @@ ___
 |---|:---:|:---:|
 |Graph-Bert: Only Attention is Needed for Learning Graph Representations|[[paper]](https://arxiv.org/pdf/2001.05140.pdf)|[[code(pytorch)]](https://github.com/jwzhanggy/Graph-Bert)|
 |Universal Graph Transformer Self-Attention Networks|[[paper]](https://arxiv.org/pdf/1909.11855.pdf)|[[code(pytorch)]](https://github.com/daiquocnguyen/Graph-Transformer)|
+|A Generalization of Transformer Networks to Graphs|[[paper]](https://arxiv.org/pdf/2012.09699.pdf)|[[code(pytorch)]](https://github.com/graphdeeplearning/graphtransformer)|
