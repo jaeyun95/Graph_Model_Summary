@@ -42,6 +42,7 @@
 |Capsule Graph Neural Network|[[paper]](https://openreview.net/pdf?id=Byl8BnRcYm)|[[code(tensorflow)]](https://github.com/XinyiZ001/CapsGNN)|
 |FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling|[[paper]](https://arxiv.org/pdf/1801.10247.pdf)|[[code(tensorflow)]](https://github.com/matenure/FastGCN)|
 |Relational Inductive Biases, Deep Learning, and Graph Networks|[[paper]](https://arxiv.org/pdf/1806.01261.pdf)|[[code(tensorflow)]](https://github.com/deepmind/graph_nets)|
+|CANE: Context-Aware Network Embedding for Relation Modeling|[[paper]](http://nlp.csai.tsinghua.edu.cn/~tcc/publications/acl2017_cane.pdf)|[[code(tensorflow)]](https://github.com/thunlp/CANE)|
 ___
 ## graph pretrained model   
 |**title**|**paper link**|**code link**|
