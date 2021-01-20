@@ -43,6 +43,8 @@
 |FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling|[[paper]](https://arxiv.org/pdf/1801.10247.pdf)|[[code(tensorflow)]](https://github.com/matenure/FastGCN)|
 |Relational Inductive Biases, Deep Learning, and Graph Networks|[[paper]](https://arxiv.org/pdf/1806.01261.pdf)|[[code(tensorflow)]](https://github.com/deepmind/graph_nets)|
 |CANE: Context-Aware Network Embedding for Relation Modeling|[[paper]](http://nlp.csai.tsinghua.edu.cn/~tcc/publications/acl2017_cane.pdf)|[[code(tensorflow)]](https://github.com/thunlp/CANE)|
+|DIRECT MULTI-HOP ATTENTION BASED GRAPH NEURAL NETWORKS|[[paper]](https://arxiv.org/pdf/2009.14332.pdf)|[code]|
+|DAG-Net: Double Attentive Graph Neural Network for Trajectory Forecasting|[[paper]](https://arxiv.org/pdf/2005.12661v2.pdf)|[[code(pytorch)]](https://github.com/alexmonti19/dagnet)|
 ___
 ## graph pretrained model   
 |**title**|**paper link**|**code link**|
