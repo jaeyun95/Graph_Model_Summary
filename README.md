@@ -45,6 +45,7 @@
 |CANE: Context-Aware Network Embedding for Relation Modeling|[[paper]](http://nlp.csai.tsinghua.edu.cn/~tcc/publications/acl2017_cane.pdf)|[[code(tensorflow)]](https://github.com/thunlp/CANE)|
 |DIRECT MULTI-HOP ATTENTION BASED GRAPH NEURAL NETWORKS|[[paper]](https://arxiv.org/pdf/2009.14332.pdf)|[code]|
 |DAG-Net: Double Attentive Graph Neural Network for Trajectory Forecasting|[[paper]](https://arxiv.org/pdf/2005.12661v2.pdf)|[[code(pytorch)]](https://github.com/alexmonti19/dagnet)|
+|PYTORCH-BIGGRAPH: A LARGE-SCALE GRAPH EMBEDDING SYSTEM|[[paper]](https://mlsys.org/Conferences/2019/doc/2019/71.pdf)|[[code(pytorch)]](https://github.com/facebookresearch/PyTorch-BigGraph)|
 ___
 ## graph pretrained model   
 |**title**|**paper link**|**code link**|
