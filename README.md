@@ -48,6 +48,7 @@
 |PYTORCH-BIGGRAPH: A LARGE-SCALE GRAPH EMBEDDING SYSTEM|[[paper]](https://mlsys.org/Conferences/2019/doc/2019/71.pdf)|[[code(pytorch)]](https://github.com/facebookresearch/PyTorch-BigGraph)|
 |Graph Neural Networks with Convolutional ARMA Filters|[[paper]](https://arxiv.org/pdf/1901.01343.pdf)|[code]|
 |Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks|[[paper]](https://arxiv.org/pdf/1810.02244.pdf)|[[code(pytorch)]](https://github.com/chrsmrrs/k-gnn)|
+|Simplifying Graph Convolutional Networks|[[paper]](https://arxiv.org/pdf/1902.07153.pdf)|[[code(pytorch)]](https://github.com/Tiiiger/SGC)|
 ___
 ## graph pretrained model   
 |**title**|**paper link**|**code link**|
