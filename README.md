@@ -49,6 +49,7 @@
 |Graph Neural Networks with Convolutional ARMA Filters|[[paper]](https://arxiv.org/pdf/1901.01343.pdf)|[code]|
 |Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks|[[paper]](https://arxiv.org/pdf/1810.02244.pdf)|[[code(pytorch)]](https://github.com/chrsmrrs/k-gnn)|
 |Simplifying Graph Convolutional Networks|[[paper]](https://arxiv.org/pdf/1902.07153.pdf)|[[code(pytorch)]](https://github.com/Tiiiger/SGC)|
+|Graph U-Net|[[paper]](https://openreview.net/pdf?id=HJePRoAct7)|[[code(pytorch)]](https://github.com/HongyangGao/Graph-U-Nets)|
 ___
 ## graph pretrained model   
 |**title**|**paper link**|**code link**|
