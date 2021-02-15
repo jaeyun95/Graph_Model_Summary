@@ -50,6 +50,7 @@
 |Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks|[[paper]](https://arxiv.org/pdf/1810.02244.pdf)|[[code(pytorch)]](https://github.com/chrsmrrs/k-gnn)|
 |Simplifying Graph Convolutional Networks|[[paper]](https://arxiv.org/pdf/1902.07153.pdf)|[[code(pytorch)]](https://github.com/Tiiiger/SGC)|
 |Graph U-Net|[[paper]](https://openreview.net/pdf?id=HJePRoAct7)|[[code(pytorch)]](https://github.com/HongyangGao/Graph-U-Nets)|
+|Combining Neural Networks with Personalized PageRank for Classification on Graphs|[[paper]](https://arxiv.org/pdf/1810.05997.pdf)|[[code(pytorch)]](https://github.com/benedekrozemberczki/APPNP)|
 ___
 ## graph pretrained model   
 |**title**|**paper link**|**code link**|
