@@ -62,3 +62,4 @@ ___
 |Universal Graph Transformer Self-Attention Networks|[[paper]](https://arxiv.org/pdf/1909.11855.pdf)|[[code(pytorch)]](https://github.com/daiquocnguyen/Graph-Transformer)|
 |G5: A Universal GRAPH-BERT for Graph-to-Graph Transfer and Apocalypse Learning|[[paper]](https://arxiv.org/pdf/2006.06183.pdf)|[code]|
 |A Generalization of Transformer Networks to Graphs|[[paper]](https://arxiv.org/pdf/2012.09699.pdf)|[[code(pytorch)]](https://github.com/graphdeeplearning/graphtransformer)|
+|SLAPS: Self-Supervision Improves Structure Learning for Graph Neural Networks|[[paper]](SLAPS: Self-Supervision Improves Structure Learning for Graph Neural Networks)|[[code(pytorch)]](https://github.com/BorealisAI/SLAPS-GNN)|
